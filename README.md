@@ -1,4 +1,4 @@
-![Banner Image]()
+![Banner Image](https://github.com/aadedolapo/aadedolapo/blob/main/header.jpg)
 
 ## Hi there 👋
 
