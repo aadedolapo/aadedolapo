@@ -4,13 +4,13 @@
 
 I am **Dolapo Adebo,** I am an Experienced **Data Analyst & Data Scientist** with a demonstrated history of working  on various projects. **Skilled in Python, SQL, Power BI, User Experience.** Strong Business professional with a Bachelor of Science in Actuarial Science focused in predictive analysis using machine learning models from Univeristy of Lagos.
 
-[![Linkedin: Dolapo](https://img.shields.io/badge/-Dolapo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dolapo-adebo-4a979687/)]
-[![GitHub Dolapo](https://img.shields.io/github/followers/aadedolapo?label=follow&style=social)](https://github.com/aadedolapo)
+![Linkedin: Dolapo](https://img.shields.io/badge/-Dolapo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dolapo-adebo-4a979687/)
+![GitHub Dolapo](https://img.shields.io/github/followers/aadedolapo?label=follow&style=social)](https://github.com/aadedolapo)
 ![Twitter Follow](https://img.shields.io/twitter/follow/theadedolapo?style=social)
 
 ---
 
-- 🔭 I’m currently and actively looking for  Data Analyst/Scientist role**
+- 🔭 I’m currently and actively looking for **Data Analyst/Scientist role**
 - 🌱 I’m currently learning **Data Engineeriing**
 - 👯 I’m looking to collaborate on building machine learning models/projects
 - 🤔 I’m looking for help with a Data Scienctist/Analyst role to show what I've been learning
