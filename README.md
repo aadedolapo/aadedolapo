@@ -16,7 +16,7 @@ I'm **Dolapo Adebo,** I'm an Experienced **Data Analyst & Data Scientist** with 
 - 🤔 I’m looking for help with a Data Scienctist/Analyst role to show what I've been learning
 - 💬 Ask me about **Data Science**
 - 📫 How to reach me:
-  **kingsleyadeb0@gmail.com, [Twitter](https://twitter.com/theadeolapo), [Instagram](https://instagram.com/the.adedolapo)**
+  **kingsleyadebo@gmail.com, [Twitter](https://twitter.com/theadeolapo), [Instagram](https://instagram.com/the.adedolapo)**
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadedolapo&layout=compact&theme=dark&hide_border=true)
 
