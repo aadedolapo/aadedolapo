@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I'm **Dolapo Adebo,** I'm **Data Analyst & Data Scientist** with proficiency working with **python and its ecosystem, SQL, Power BI, and Excel.** A Strong Business professional with a Bachelor of Science in Actuarial Science driven by a passion for data analysis, forecasting, predidciting and visualization for strategic business decision-making. Prepared to take on new initiatives as an individual as well as part of a team, utilizing data science/ML skills to solve priblems.
+A **Data Analyst & Data Scientist** with proficiency working with **python and its ecosystem, SQL, Power BI, and Excel.** A Strong Business professional with a Bachelor of Science in Actuarial Science driven by a passion for data analysis, forecasting, predicting and visualizing data for strategic business decision-making. I'm Prepared to take on new initiatives as an individual as well as part of a team, utilizing data science/ML skills to solve problems.
 
 ![Linkedin: Dolapo](https://img.shields.io/badge/-Dolapo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dolapo-adebo-4a979687/)
 ![GitHub Dolapo](https://img.shields.io/github/followers/aadedolapo?label=follow&style=social)
