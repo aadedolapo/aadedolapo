@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-A **Data Analyst & Data Scientist** with proficiency working with **python and its ecosystem, SQL, Power BI, and Excel.** A Strong Business professional with a Bachelor of Science in Actuarial Science driven by a passion for data analysis, forecasting, predicting and visualizing data for strategic business decision-making. I'm Prepared to take on new initiatives as an individual as well as part of a team, utilizing data science/ML skills to solve problems.
+I'm Dolapo Adebo, a **Data Scientist** with proficiency working with **python and its ecosystem, and SQL.**  I’m currently studying MSc Data Science at The Manchester Metropolitan University. I'm Prepared to take on new initiatives as an individual as well as part of a team, utilizing data science/ML skills to solve problems.
 
 ![Linkedin: Dolapo](https://img.shields.io/badge/-Dolapo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dolapo-adebo-4a979687/)
 ![GitHub Dolapo](https://img.shields.io/github/followers/aadedolapo?label=follow&style=social)
@@ -10,13 +10,11 @@ A **Data Analyst & Data Scientist** with proficiency working with **python and i
 
 ---
 
-- 🔭 I’m currently and actively looking for **Data Analyst/Scientist role**
-- 🌱 I’m currently learning **TensorFlow **
+- 🔭 I’m currently and actively looking for **Data Scientist role**
+- 🌱 I’m currently learning **Deep Learning and Data Structures and Alogrithms using C#**
 - 👯 I’m looking to collaborate on building machine learning models/projects
-- 🤔 I’m looking for help with a Data Scienctist/Analyst role to show what I've been learning
-- 💬 Ask me about **Data Science**
 - 📫 How to reach me:
-  **kingsleyadebo@gmail.com, [Twitter](https://twitter.com/theadeolapo), [Instagram](https://instagram.com/the.adedolapo)**
+  **kingsleyadebo@gmail.com, [Twitter](https://twitter.com/theadeolapo)**
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadedolapo&layout=compact&theme=dark&hide_border=true)
 
