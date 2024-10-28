@@ -10,7 +10,7 @@ I'm Dolapo Adebo,  a **Data Scientist**  with a Distinction master’s in data s
 
 ---
 
-- 🔭 I’m currently and actively looking for **Data Scientist role**
+~- 🔭 I’m currently and actively looking for **Data Scientist role**~
 - 🌱 I’m currently learning **Deep Learning(Computer Vision)**
 - 👯 I’m looking to collaborate on building machine learning models/projects
 - 📫 How to reach me:
