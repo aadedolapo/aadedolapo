@@ -12,10 +12,4 @@ I'm Dolapo Adebo,  a **Data Scientist**  with a Distinction master’s in data s
 - 🌱 I’m currently learning **Deep Learning(Computer Vision)**
 - 👯 I’m looking to collaborate on building machine learning models/projects
 - 📫 How to reach me:
-  **kingsleyadebo@gmail.com, [Twitter](https://twitter.com/theadeolapo)**
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadedolapo&layout=compact&theme=dark&hide_border=true)
-
-![Dolapo's github stats](https://github-readme-stats.vercel.app/api?username=aadedolapo&show_icons=true&hide_border=true&theme=dark)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=aadedolapo)](https://github.com/aadedolapo/github-profile-trophy)
+  **kingsleyadebo@gmail.com**
