@@ -6,6 +6,5 @@ I'm Dolapo,  a **Certified Data Scientist/Machine Learning Engineer** with Disti
 ![GitHub Dolapo](https://img.shields.io/github/followers/aadedolapo?label=follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/theadedolapo?style=social)
 
----
 - 👯 I’m looking to collaborate on building machine learning models/projects
 - 📫 How to reach me:  **kingsleyadebo@gmail.com**
