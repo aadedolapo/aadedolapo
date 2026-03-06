@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Dolapo Adebo,  a **Data Scientist**  with a Distinction master’s in data science. I am a forward-thinking Data Scientist and Machine Learning Engineer proficient in Python and its ecosystem, R, SQL, and various data tools. I specialise in data analysis, forecasting, prediction, and visualisation, while also boasting extensive experience in developing and deploying cutting-edge machine learning models and algorithms. I enjoy playing video and board games with friends while not working on projects and learning.
+I'm Dolapo,  a **Data Scientist/Machine Learning Engineer**  with a Distinction master’s in data science. I am a forward-thinking Data Scientist and Machine Learning Engineer proficient in Python and its ecosystem, R, SQL, and various data tools. I specialise in data analysis, forecasting, prediction, and visualisation, while also boasting extensive experience in developing and deploying cutting-edge machine learning models and algorithms. I enjoy playing video and board games with friends while not working on projects and learning.
 
 ![Linkedin: Dolapo](https://img.shields.io/badge/-Dolapo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dolapo-adebo-4a979687/)
 ![GitHub Dolapo](https://img.shields.io/github/followers/aadedolapo?label=follow&style=social)
