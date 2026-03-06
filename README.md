@@ -7,9 +7,6 @@ I'm Dolapo Adebo,  a **Data Scientist**  with a Distinction master’s in data s
 ![Twitter Follow](https://img.shields.io/twitter/follow/theadedolapo?style=social)
 
 ---
-
-~- 🔭 I’m currently and actively looking for **Data Scientist role**~
-- 🌱 I’m currently learning **Deep Learning(Computer Vision)**
 - 👯 I’m looking to collaborate on building machine learning models/projects
 - 📫 How to reach me:
   **kingsleyadebo@gmail.com**
